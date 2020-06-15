@@ -1,0 +1,8 @@
+@charset "utf-8";
+#header h1 {
+    font-family: astloch;
+    font-style: normal;
+	font-size: 60px;
+	font-weight: 1000;
+	text-align: center;
+}
